@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wet_smartslug\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-04 15:33+0100\n"
+"PO-Revision-Date: 2014-12-19 15:15+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\Users\\robert\\Projekte\\wp\\plugins\\wet_smartslug"
+"\\trunk\n"
+"Language: sr\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wet_smartslug.php:22
+msgid "Smart Slug"
+msgstr "Smart Slug"
+
+#: wet_smartslug.php:30
+msgid "stopwords_set"
+msgstr "stopwords_set"
+
+#: wet_smartslug.php:37
+msgid "Options Updated."
+msgstr "Opcije ažurirane."
+
+#: wet_smartslug.php:44
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: wet_smartslug.php:50
+msgid "Comma separated list of stop words:"
+msgstr "Lista stop words-a odvojenih zarezima "
+
+#: wet_smartslug.php:58
+msgid "Minimum character count for slug parts:"
+msgstr "Minimalan broj karaktera za delove slug-a:"
+
+#: wet_smartslug.php:66
+msgid "Save Changes"
+msgstr "Sačuvaj izmene"
